@@ -1,6 +1,6 @@
 # 🎉 Evently – Event Listing & RSVP Platform
 
-Evently is a full-stack event management application built with **Next.js**, **MongoDB**, and **GraphQL**. It allows users to browse, create, and RSVP to events. This project demonstrates key concepts from Chapters 12–14 including middleware setup, building a GraphQL API, and implementing both static and server-side rendering in Next.js.
+Evently is a full-stack event management application built with **Next.js**, **MongoDB**, and **GraphQL**. It allows users to browse, create, and RSVP to events. This project demonstrates key concepts including middleware setup, building a GraphQL API, and implementing both static and server-side rendering in Next.js.
 
 ## 🚀 Features
 
