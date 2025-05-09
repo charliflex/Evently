@@ -21,7 +21,8 @@ Evently is a full-stack event management application built with **Next.js**, **M
 - Implements a GraphQL server via Apollo inside `pages/api/graphql.js`
 - Defines typeDefs and resolvers for querying and mutating data
 ![graphql_dash](https://github.com/user-attachments/assets/4e255379-580c-459b-ba8e-8833785ed2b6)
-![Uploading sandbox_playroom.png…]()
+sandbox playroom
+![sandbox_playroom](https://github.com/user-attachments/assets/d48b7e15-a228-47b7-8833-94a04557a49f)
 
 
 ### ✅ Frontend Rendering
@@ -37,5 +38,5 @@ Evently is a full-stack event management application built with **Next.js**, **M
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/evently.git
+[git clone https://github.com/charliflex/Evently.git]
 cd evently
